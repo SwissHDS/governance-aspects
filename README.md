@@ -7,4 +7,7 @@ Daten sind ein Wirtschaftsgut mit einem intrinsischem Wert. Dies gilt insbesonde
 
 Ein funktionierende Datenraum braucht domänenübergreifende Koordination und Steuerung. Das betrifft Themen wie die Klärung der gesetzlichen Rahmenbedingungen, die Anforderungen an die Teilnehmer und die Auswahl der Standrads.   
 
-In diesem Raum wollen wir über die Themen zur föderierten Steuerung des Datenraums informieren und mit Ihnen diskutieren.  
+In diesem Raum wollen wir über die Themen zur föderierten Steuerung des Datenraums informieren und mit Ihnen diskutieren. 
+
+[Diskussionen](https://github.com/SwissHDS/governance-aspects/discussions) oder [Anregungen und Feedback](https://github.com/SwissHDS/governance-aspects/issues) 
+
